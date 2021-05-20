@@ -1,2 +1,2 @@
-# dogwalk_stripe_api
+# Payment Gateway
 Node.js, Express dog walk seller using Stripe API
